@@ -1,3 +1,3 @@
 # The Renal Direct Immunofluorescence (RDIF) Dataset
 
-Under Construction.
+Due to an unexpected change in privacy policy regarding the release of clinical text data, our permission to publish the Renal Direct ImmunoFluorescence (RDIF) dataset has been temporarily suspended. We are actively negotiating how we can release the RDIF dataset in compliance with the new privacy restrictions. We sincerely apologize for the delay.
